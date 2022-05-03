@@ -1,0 +1,18 @@
+export default {
+  black: "#000",
+  white: "#fff",
+  primary: "#04c77f",
+  secondary: "#fa3c4b",
+  dark: '#5a5a5a',
+  medium: '#a6a6a6',
+  light: '#f2f2f2',
+  top: '#e05e5e',
+  right: '#4192cc',
+  bottom: '#58c42b',
+  left: '#d1cc30',
+  topActive: '#ff1414',
+  rightActive: '#71D1FF',
+  bottomActive: '#88ff78',
+  leftActive: '#fbff00',
+  blink: "#840ff2",
+};
